@@ -32,7 +32,7 @@ Todos os processos chegam no instante zero.
 3. Execute o seguinte comando:
 
 ```powershell
-python simulador.py
+python main.py
 ```
 
 ## Resultados apresentados
